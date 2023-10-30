@@ -1,5 +1,5 @@
 ## Clonar el repositorio
-git clone 
+git clone https://github.com/Facundo-Wehrli/AgroService-App-back-end.git
 
 ## Construir el proyecto con Maven
 mvn clean install
